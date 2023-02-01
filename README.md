@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi!!, I'm an Frontend & Backend engineer👋
 
+### Used Skills
+[![My Skills](https://skillicons.dev/icons?i=go,ruby,rails,js,ts,react,nextjs,vue,githubactions,docker,mysql,postgres,aws)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugisawakaito)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugisawakaito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sugisawakaito/sugisawakaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
